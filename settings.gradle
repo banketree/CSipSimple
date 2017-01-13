@@ -1,0 +1,1 @@
+include ':app', ':csipsimplecodecg729', ':csipsimplecodecpack', ':csipsimplevideoplugin'
